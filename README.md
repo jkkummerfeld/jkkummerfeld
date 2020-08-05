@@ -12,7 +12,7 @@ I work on a range of projects at the intersection of Natural Language Processing
 - ⚡ Fun fact: 
 -->
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
 
 ### Academic Code
 * [IRC Disentanglement](https://github.com/jkkummerfeld/irc-disentanglement/tree/master/src)
@@ -22,17 +22,17 @@ I work on a range of projects at the intersection of Natural Language Processing
 * [Coreference Error Analyser](https://github.com/jkkummerfeld/berkeley-coreference-analyser)
 * [Constituency Parsing Analyser](https://github.com/jkkummerfeld/berkeley-parser-analyser)
 * [CCG to Phrase Structure Converter](https://github.com/jkkummerfeld/berkeley-ccg2pst)
-</td><td valign="top" width="50%">
+</td><td valign="top" width="80%">
 
 ### Academic Data
 * [IRC Disentanglement](https://github.com/jkkummerfeld/irc-disentanglement/tree/master/data)
 * [Text to SQL](https://github.com/jkkummerfeld/text2sql-data/tree/master/data)
-</td></tr><tr><td valign="top" width="50%">
+</td></tr><tr><td valign="top" width="80%">
 
 ### Examples and Utilities
 * [Neural Tagger Tutorial](https://github.com/jkkummerfeld/neural-tagger-tutorial)
 * [NLP Utilities](https://github.com/jkkummerfeld/nlp-util)
-</td><td valign="top" width="50%">
+</td><td valign="top" width="80%">
 
 ### Personal Projects
 * [Preparing a TACL resubmission](https://github.com/jkkummerfeld/misc-useful)
