@@ -29,7 +29,7 @@ I work on a range of projects at the intersection of Natural Language Processing
 ### Datasets
 * [IRC Disentanglement](https://github.com/jkkummerfeld/irc-disentanglement/tree/master/data)
 * [Text to SQL](https://github.com/jkkummerfeld/text2sql-data/tree/master/data)
-</td></tr><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 ### Other
 * [Neural Tagger Tutorial](https://github.com/jkkummerfeld/neural-tagger-tutorial)
