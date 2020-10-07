@@ -17,6 +17,7 @@ I work on a range of projects at the intersection of Natural Language Processing
 <table><tr><td valign="top" width="34%">
 
 ### Code for Papers
+* [Low Compute Language Modeling](https://github.com/jkkummerfeld/emnlp20lm)
 * [IRC Disentanglement](https://github.com/jkkummerfeld/irc-disentanglement/tree/master/src)
 * [Slate (Annotation Tool)](https://github.com/jkkummerfeld/slate)
 * [Text to SQL](https://github.com/jkkummerfeld/text2sql-data/tree/master/systems)
