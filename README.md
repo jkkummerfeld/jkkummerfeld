@@ -1,8 +1,6 @@
 I am a Postdoctoral Research Fellow, working at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
 I work on a range of projects at the intersection of Natural Language Processing and Crowdsourcing.
 
-### This cycle (2020-2021) I will be on the job market!
-
 <!--
 - 🔭 I’m currently working on a range ofefficient coreference resolution annotation
 - 🌱 I’m currently learning Swift for a little iOS app project
