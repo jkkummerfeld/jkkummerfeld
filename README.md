@@ -1,5 +1,10 @@
-I am a Postdoctoral Research Fellow, working at the [University of Michigan](https://www.umich.edu/), in [Computer Science and Engineering](https://www.cse.umich.edu/).
 I work on a range of projects at the intersection of Natural Language Processing and Crowdsourcing.
+
+I am officially an:
+- (Honorary till mid-2022) Assistant Professor at the University of Sydney
+- Visiting Scholar at Harvard University
+- Research Associate II at the University of Michigan
+- Startup Adviser
 
 <!--
 - 🔭 I’m currently working on a range ofefficient coreference resolution annotation
