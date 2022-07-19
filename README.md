@@ -1,10 +1,6 @@
 I work on a range of projects at the intersection of Natural Language Processing and Crowdsourcing.
 
-I am officially an:
-- (Honorary till mid-2022) Assistant Professor at the University of Sydney
-- Visiting Scholar at Harvard University
-- Research Associate II at the University of Michigan
-- Startup Adviser
+I am an Assistant Professor at the University of Sydney and advise startups on NLP technology.
 
 <!--
 - 🔭 I’m currently working on a range ofefficient coreference resolution annotation
